@@ -1,4 +1,4 @@
-# Quantum Factorization
+# Quantum Factorizer
 An implementation of the Shor's algorithm with modifications to calculate the factors of a semi-prime.
 
 Quantum simulators permit the study of quantum systems. Simulators are special purpose devices designed to provide insight into specific physics problems. In this project, I've developed an implementation of modified Shor's algorithm for Quantum Factorization. 
